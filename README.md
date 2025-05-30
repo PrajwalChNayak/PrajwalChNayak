@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Prajwal Ch Nayak
+# 👋 Hey there! I'm Prajwal 
 
 🎓 **Tech Enthusiast | Passionate Educator | Full-Stack Architect**
 
