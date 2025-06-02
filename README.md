@@ -14,7 +14,8 @@ Over the years, I've accumulated knowledge and insights that I'm excited to shar
 
 - 🎨 **[Tailwind CSS Documentation](https://prajwalchnayak.github.io/tailwind_doc/)** - Master utility-first CSS
 - ⚛️ **[React Documentation](https://prajwalchnayak.github.io/react_doc/src/sections/getting-started.html)** - Build powerful user interfaces
-- 🔧 **[Backend Documentation](link)** - Server-side development made simple
+- ⚛️ **[NextJs Documentation](https://prajwalchnayak.github.io/nextjs_doc/#introduction)** - Build powerful user interfaces With SSR
+- 🔧 **[Backend Documentation](https://prajwalchnayak.github.io/express_doc/#server-fundamentals/index)** - Server-side development made simple
 
 ## 💡 My Philosophy
 *"The best way to solidify your knowledge is to teach it to others."*
