@@ -22,11 +22,11 @@
 
 ## 🚀 What Drives Me
 
-| | |
-|:--:|:--|
-| 🧑‍🏫 | **Teaching is my hobby** — There's nothing quite like seeing that "aha!" moment in a student's eyes |
-| 💻 | **Coding is my passion** — Every line of code is a step toward building something meaningful |
-| 🌱 | **Sharing knowledge is my mission** — Because great ideas grow when shared |
+|     |                                                                                                     |
+| :-: | :-------------------------------------------------------------------------------------------------- |
+| 🧑‍🏫  | **Teaching is my hobby** — There's nothing quite like seeing that "aha!" moment in a student's eyes |
+| 💻  | **Coding is my passion** — Every line of code is a step toward building something meaningful        |
+| 🌱  | **Sharing knowledge is my mission** — Because great ideas grow when shared                          |
 
 ---
 
@@ -37,12 +37,12 @@
 
 <div align="center">
 
-| | Documentation | What You'll Learn |
-|:--:|:--|:--|
-| 🎨 | **[Tailwind CSS](https://prajwalchnayak.github.io/tailwind_doc/)** | Master utility-first CSS |
-| ⚛️ | **[React](https://prajwalchnayak.github.io/react_doc/src/sections/getting-started.html)** | Build powerful user interfaces |
-| ▲ | **[Next.js](https://prajwalchnayak.github.io/nextjs_doc/#introduction)** | Build powerful user interfaces with SSR |
-| 🔧 | **[Backend / Express](https://prajwalchnayak.github.io/express_doc/#server-fundamentals/index)** | Server-side development made simple |
+|     | Documentation                                                                             | What You'll Learn                       |
+| :-: | :---------------------------------------------------------------------------------------- | :-------------------------------------- |
+| 🎨  | **[Tailwind CSS](https://prajwalchnayak.github.io/tailwind_doc/)**                        | Master utility-first CSS                |
+| ⚛️  | **[React](https://prajwalchnayak.github.io/react_doc/src/sections/getting-started.html)** | Build powerful user interfaces          |
+|  ▲  | **[Next.js](https://prajwalchnayak.github.io/nextjs_doc/#introduction)**                  | Build powerful user interfaces with SSR |
+| 🔧  | **[Node.js/ Express/Nest.js](https://prajwalchnayak.github.io/backend_doc/)**             | Server-side development made simple     |
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-> ### *"The best way to solidify your knowledge is to teach it to others."*
+> ### _"The best way to solidify your knowledge is to teach it to others."_
 
 </div>
 
@@ -63,6 +63,6 @@ Whether you're just starting out or looking to level up your skills, **I'm here 
 
 <div align="center">
 
-### *Let's build something amazing together!* 🌟
+### _Let's build something amazing together!_ 🌟
 
 </div>
