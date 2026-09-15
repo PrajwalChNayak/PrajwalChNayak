@@ -40,7 +40,7 @@
 |     | Documentation                                                                             | What You'll Learn                       |
 | :-: | :---------------------------------------------------------------------------------------- | :-------------------------------------- |
 | 🎨  | **[Tailwind CSS](https://prajwalchnayak.github.io/tailwind_doc/)**                        | Master utility-first CSS                |
-| ⚛️  | **[React](https://prajwalchnayak.github.io/react_doc/src/sections/getting-started.html)** | Build powerful user interfaces          |
+| ⚛️  | **[React](https://prajwalchnayak.github.io/react_doc/)** | Build powerful user interfaces          |
 |  ▲  | **[Next.js](https://prajwalchnayak.github.io/nextjs_doc/#introduction)**                  | Build powerful user interfaces with SSR |
 | 🔧  | **[Node.js/ Express/Nest.js](https://prajwalchnayak.github.io/backend_doc/)**             | Server-side development made simple     |
 
