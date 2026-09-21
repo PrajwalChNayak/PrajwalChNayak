@@ -43,7 +43,7 @@
 |     | Documentation                                                                             | What You'll Learn                       |
 | :-: | :---------------------------------------------------------------------------------------- | :-------------------------------------- |
 | 🎨  | **[Tailwind CSS](https://prajwalchnayak.github.io/tailwind_doc/)**                        | Master utility-first CSS                |
-| ⚛️  | **[React/Next.js](https://prajwalchnayak.github.io/react_doc/src/sections/getting-started.html)** | Build powerful user interfaces          |
+| ⚛️  | **[React/Next.js](https://prajwalchnayak.github.io/react_doc/)** | Build powerful user interfaces          |
 | 📱  | **[React Native/Expo](https://prajwalchnayak.github.io/react_native_doc/)**               | Build cross-platform mobile apps        |
 | 🔧  | **[Node.js/ Express/Nest.js](https://prajwalchnayak.github.io/backend_doc/)**             | Server-side development made simple     |
 | 🗄️  | **[Databases](https://prajwalchnayak.github.io/database/index.html)**                     | Everything about databases              |
