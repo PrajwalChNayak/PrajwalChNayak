@@ -40,14 +40,68 @@
 
 <div align="center">
 
-|     | Documentation                                                                             | What You'll Learn                       |
-| :-: | :---------------------------------------------------------------------------------------- | :-------------------------------------- |
-| 🎨  | **[Tailwind CSS](https://prajwalchnayak.github.io/tailwind_doc/)**                        | Master utility-first CSS                |
-| ⚛️  | **[React/Next.js](https://prajwalchnayak.github.io/react_doc/)** | Build powerful user interfaces          |
-| 📱  | **[React Native/Expo](https://prajwalchnayak.github.io/react_native_doc/)**               | Build cross-platform mobile apps        |
-| 🔧  | **[Node.js/ Express/Nest.js](https://prajwalchnayak.github.io/backend_doc/)**             | Server-side development made simple     |
-| 🗄️  | **[Databases](https://prajwalchnayak.github.io/database/index.html)**                     | Everything about databases              |
-| 🐳  | **[Docker/Kubernetes](https://prajwalchnayak.github.io/docker_kubarnative/)**             | Containerize and orchestrate your apps  |
+<img src="https://img.shields.io/badge/Guides-6-4F46E5?style=flat-square" alt="6 Guides" />
+<img src="https://img.shields.io/badge/Price-Free-10B981?style=flat-square" alt="Free" />
+<img src="https://img.shields.io/badge/Level-Beginner%20→%20Advanced-06B6D4?style=flat-square" alt="Beginner to Advanced" />
+
+<br /><br />
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://prajwalchnayak.github.io/tailwind_doc/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="48" /></a>
+<h3>Tailwind CSS</h3>
+<p>Master utility-first CSS and build beautiful UIs fast.</p>
+<sub>Utilities · Layouts · Responsive · Theming</sub>
+<br /><br />
+<a href="https://prajwalchnayak.github.io/tailwind_doc/"><img src="https://img.shields.io/badge/Read%20the%20Docs-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Read the Tailwind CSS docs" /></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://prajwalchnayak.github.io/react_doc/"><img src="https://skillicons.dev/icons?i=react,nextjs" alt="React / Next.js" height="48" /></a>
+<h3>React / Next.js</h3>
+<p>Build powerful, modern user interfaces.</p>
+<sub>Components · Hooks · Routing · SSR</sub>
+<br /><br />
+<a href="https://prajwalchnayak.github.io/react_doc/"><img src="https://img.shields.io/badge/Read%20the%20Docs-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Read the React / Next.js docs" /></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://prajwalchnayak.github.io/react_native_doc/"><img src="https://skillicons.dev/icons?i=react,androidstudio,apple" alt="React Native / Expo" height="48" /></a>
+<h3>React Native / Expo</h3>
+<p>Ship cross-platform mobile apps from one codebase.</p>
+<sub>Navigation · Native APIs · Expo · Builds</sub>
+<br /><br />
+<a href="https://prajwalchnayak.github.io/react_native_doc/"><img src="https://img.shields.io/badge/Read%20the%20Docs-4630EB?style=for-the-badge&logo=expo&logoColor=white" alt="Read the React Native / Expo docs" /></a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://prajwalchnayak.github.io/backend_doc/"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Node.js / Express / Nest.js" height="48" /></a>
+<h3>Node.js / Express / Nest.js</h3>
+<p>Server-side development made simple.</p>
+<sub>REST APIs · Middleware · Auth · Architecture</sub>
+<br /><br />
+<a href="https://prajwalchnayak.github.io/backend_doc/"><img src="https://img.shields.io/badge/Read%20the%20Docs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Read the Node.js / Express / Nest.js docs" /></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://prajwalchnayak.github.io/database/index.html"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" height="48" /></a>
+<h3>Databases</h3>
+<p>Everything you need to know about databases.</p>
+<sub>SQL · NoSQL · Modeling · Queries</sub>
+<br /><br />
+<a href="https://prajwalchnayak.github.io/database/index.html"><img src="https://img.shields.io/badge/Read%20the%20Docs-F59E0B?style=for-the-badge&logo=postgresql&logoColor=white" alt="Read the Databases docs" /></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://prajwalchnayak.github.io/docker_kubarnative/"><img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker / Kubernetes" height="48" /></a>
+<h3>Docker / Kubernetes</h3>
+<p>Containerize and orchestrate your applications.</p>
+<sub>Images · Containers · Pods · Deployments</sub>
+<br /><br />
+<a href="https://prajwalchnayak.github.io/docker_kubarnative/"><img src="https://img.shields.io/badge/Read%20the%20Docs-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Read the Docker / Kubernetes docs" /></a>
+</td>
+</tr>
+</table>
+
+<sub>⭐ Found these helpful? Share them with someone who's just starting out!</sub>
 
 </div>
 
