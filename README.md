@@ -47,6 +47,7 @@
 | 📱  | **[React Native/Expo](https://prajwalchnayak.github.io/react_native_doc/)**               | Build cross-platform mobile apps        |
 | 🔧  | **[Node.js/ Express/Nest.js](https://prajwalchnayak.github.io/backend_doc/)**             | Server-side development made simple     |
 | 🗄️  | **[Databases](https://prajwalchnayak.github.io/database/index.html)**                     | Everything about databases              |
+| 🐳  | **[Docker/Kubernetes](https://prajwalchnayak.github.io/docker_kubarnative/)**             | Containerize and orchestrate your apps  |
 
 </div>
 
